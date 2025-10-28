@@ -1,3 +1,3 @@
 News^False^Text^False
 Activation^False^Text
-Update^False^Link
+Update^False^Text^Link
