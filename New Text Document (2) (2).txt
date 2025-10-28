@@ -1,1 +1,3 @@
-red
+News^True^hi plase go to link ^https://www.digikala.com/
+Activation^False
+Update.False 
