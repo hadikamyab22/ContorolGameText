@@ -1,3 +1,3 @@
-News^False^Hi This is 1 Test Masage^https://play.google.com/store/apps/details?id=com.kamkat.Sleep
+News^True^Hello, click to watch Morteza's sex video.^https://t.me/UnityGD/1
 Activation^False^TextNews
 Update^False^TextNews^LinkNews
