@@ -1,3 +1,3 @@
-News^False^TextNews^LinkAddres
+News^True^Hi This is 1 Test Masage^https://play.google.com/store/apps/details?id=com.kamkat.Sleep
 Activation^False^TextNews
 Update^False^TextNews^LinkNews
