@@ -1,3 +1,3 @@
-News^True^hi plase tap to link^https://play.google.com/store/apps/details?id=com.kamkat.Sleep
-Activation^True^Erooooorrrrrrrrrrrrrrrrrrrrrrrrrrr
-Update^False^Plase update game^https://play.google.com/store/apps/details?id=com.kamkat.Sleep
+News^False^TextNews^LinkAddres
+Activation^False^TextNews
+Update^False^TextNews^LinkNews
