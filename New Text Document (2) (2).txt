@@ -1,2 +1,2 @@
 News^False^متن^   link open  ^ photo back grond ^ photo lin buten
-Activation^False^متن فعال‌سازی^False^False^False
+Activation^True^hiiiiiiiiiiiiiiiiiiiiiiii^False^False^False
