@@ -1,2 +1,2 @@
-News^False^متن خبر^لینک کلیک^لینک عکس بک‌گراند^لینک دانلود عکس
-Activation^False^متن فعال‌سازی^False^False^False
+News^True^متن خبر^لینک کلیک^لینک عکس بک‌گراند^لینک عکس دکمه
+Activation^True^متن فعال‌سازی^False^False^False
