@@ -1,3 +1,2 @@
-News^False^Hello, click to watch Morteza's sex video.^https://t.me/UnityGD/1
-Activation^False^You were banned for watching the movie Super
-Update^False^TextNews^LinkNews
+News^False^متن خبر^لینک کلیک^لینک عکس بک‌گراند^لینک دانلود عکس
+Activation^False^متن فعال‌سازی^False^False^False
