@@ -1,2 +1,2 @@
-News^True^متن خبر^لینک کلیک^لینک عکس بک‌گراند^لینک عکس دکمه
-Activation^True^متن فعال‌سازی^False^False^False
+News^True^Plase Download mi game^https://maktabkhooneh.org/mag/download-the-file-from-github/^https://cdn.jsdelivr.net/gh/hadikamyab22/ContorolGameText/520707d2acfdfbfb7b37ce1e883a078e.png^https://cdn.jsdelivr.net/gh/hadikamyab22/ContorolGameText/images.jpeg
+Activation^False^متن فعال‌سازی^False^False^False
