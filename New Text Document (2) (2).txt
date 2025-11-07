@@ -1,2 +1,2 @@
-News^False^False^False^False^False
+News^True^ ^https://play.google.com/store/apps/details?id=com.MYTHODEV.FunnyWorm^https://raw.githubusercontent.com/hadikamyab22/ContorolGameText/main/BackGrond.png^https://raw.githubusercontent.com/hadikamyab22/ContorolGameText/689f62294af112b2d7b384b30881efe0f6baf310/dad.png
 Activation^Fulse^hiiiiiiiiiiiiiiiiiiiiiiii^False^False^False
